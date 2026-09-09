@@ -65,7 +65,7 @@
     "zxcvbn": "4.4.2"
   },
   "devDependencies": {
-    "@faker-js/faker": "7.6.0",
+    "@faker-js/faker": "10.5.0",
     "@testing-library/react-native": "13.0.0",
     "@types/react": "18.3.18",
     "@types/zxcvbn": "4.4.2",
