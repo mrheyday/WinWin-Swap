@@ -176,7 +176,7 @@
     "@babel/plugin-proposal-numeric-separator": "7.16.7",
     "@babel/runtime": "7.26.0",
     "@datadog/datadog-ci": "2.39.0",
-    "@faker-js/faker": "7.6.0",
+    "@faker-js/faker": "10.5.0",
     "@react-native-community/datetimepicker": "8.2.0",
     "@react-native-community/slider": "4.5.5",
     "@storybook/addon-ondevice-controls": "8.5.2",
